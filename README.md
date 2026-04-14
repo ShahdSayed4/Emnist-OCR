@@ -126,19 +126,25 @@ HOG proved better than PCA as it preserves edge and shape information. :contentR
 ---
 ## ▶️ How to Run
 
-git clone https://github.com/ShahdSayed4/emnist-ocr.git pip install -r
-requirements.txt jupyter notebook
+```bash
+git clone https://github.com/ShahdSayed4/emnist-ocr.git
+cd emnist-ocr
+pip install -r requirements.txt
+jupyter notebook
 
 ## 🚀 Run on Google Colab
+
+👉 Click the button below to run the project:
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1SGPPUfMQlDdpgdswIYycMCk-PUAmA_WM?usp=sharing)
+
 
 ## 👥 Team
 
-Shahd Sayed 
-Rahma Shaaban
-Kareem Ayman
-Ismael Mahmoud
-Habiba Khaled
-Bavly Aziz
+- Shahd Sayed 
+- Rahma Shaaban
+- Kareem Ayman
+- Ismael Mahmoud
+- Habiba Khaled
+- Bavly Aziz
 
 ✨ Built with passion for AI
