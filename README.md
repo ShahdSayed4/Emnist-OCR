@@ -131,6 +131,7 @@ git clone https://github.com/ShahdSayed4/emnist-ocr.git
 cd emnist-ocr
 pip install -r requirements.txt
 jupyter notebook
+```
 
 ## 🚀 Run on Google Colab
 
